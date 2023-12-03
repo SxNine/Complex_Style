@@ -1,4 +1,4 @@
-
+```cpp
 /**
  * @file mycomplex.h
  * @brief Заголовочный файл с объявлением класса Complex.
@@ -211,3 +211,4 @@ public:
 };
 
 #endif
+```

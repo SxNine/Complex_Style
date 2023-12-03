@@ -1,4 +1,4 @@
-
+```cpp
 /**
  * @file mycomplex.cpp
  * @brief Реализация класса Complex и связанных с ним операторов.
@@ -311,3 +311,4 @@ Complex operator*(const double& aLval, const Complex& a) {
     r.Im = aLval * a.Im;
     return r;
 }
+```
